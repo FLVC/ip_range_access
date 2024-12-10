@@ -1,0 +1,5 @@
+{
+    "name": "flvc/ip_range_access",
+    "description": "Allows access to entities by IP address range.",
+    "type": "drupal-module"
+}
